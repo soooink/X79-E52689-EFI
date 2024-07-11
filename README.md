@@ -1,1 +1,6 @@
 # X79-E52689-EFI
+
+![WX20240711-140811](https://github.com/soooink/X79-E52689-EFI/assets/42925319/f29b2408-88ba-4549-a0c4-ca2b870aa87d)
+Intel X79-2011
+E5-2689
+Gtx650
